@@ -1,0 +1,4 @@
+D001|Diep  |red     	|2.20 | Vong bach kim
+D002|Tuan  |yellow      |5.20 | Vong kim cuong
+D001|Tung  |brown    	|2.20 | Ribbon tim
+D001|Cuong |blue     	|2.20 | Vong i love u <33
